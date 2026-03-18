@@ -10,7 +10,7 @@ La idea principal detrás de los árboles de decisión es dividir los datos en g
 
 ### Estructura
 
-La estructura de un árbol de decisión se asemeja a la de un árbol invertido. Comienza con un nodo llamado **nodo raíz** (*root node*) que contiene todos los datos. Este nodo se divide en dos o más nodos hijos basándose en algún criterio. Son los **nodos de decisión** (*decision node*). Este proceso se repite en cada nodo hijo, creando lo que se llaman **ramas** (*branches*), hasta que se llega a un nodo que no se divide más. Estos nodos finales se llaman **nodos hoja** (*leaf nodes*) y represen tan la decisión final o la predicción del árbol.
+La estructura de un árbol de decisión se asemeja a la de un árbol invertido. Comienza con un nodo llamado **nodo raíz** (*root node*) que contiene todos los datos. Este nodo se divide en dos o más nodos hijos basándose en algún criterio. Son los **nodos de decisión** (*decision node*). Este proceso se repite en cada nodo hijo, creando lo que se llaman **ramas** (*branches*), hasta que se llega a un nodo que no se divide más. Estos nodos finales se llaman **nodos hoja** (*leaf nodes*) y representan la decisión final o la predicción del árbol.
 
 ![decision_tree_structure](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/assets/decision_tree_structure.jpg?raw=true)
 
